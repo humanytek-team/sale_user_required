@@ -30,3 +30,4 @@ class SaleOrder(models.Model):
     _inherit = 'sale.order'
 
     user_id = fields.Many2one(default=None, required=True)
+    client_order_ref = fields.Char(required=True)

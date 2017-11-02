@@ -32,7 +32,7 @@
     'version': '1.0.0',
     'depends': ['sale'],
     'data': [
-
+        'view/partner_view.xml'
     ],
     'demo': [
     ],

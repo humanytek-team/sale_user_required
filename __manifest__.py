@@ -30,9 +30,11 @@
     'website': "http://www.humanytek.com",
     'category': 'Sale',
     'version': '1.0.0',
-    'depends': ['sale'],
+    'depends': ['sale', 'purchase'],
     'data': [
-        'view/partner_view.xml'
+        'view/partner_view.xml',
+        'view/sale_view.xml',
+        'view/purchase_view.xml',
     ],
     'demo': [
     ],

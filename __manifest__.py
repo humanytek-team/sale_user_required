@@ -35,6 +35,7 @@
         'view/partner_view.xml',
         'view/sale_view.xml',
         'view/purchase_view.xml',
+        'data/mail_template_data.xml',
     ],
     'demo': [
     ],
